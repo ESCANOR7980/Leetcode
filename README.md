@@ -6,4 +6,5 @@
 3699. Number of ZigZag Arrays I - Day 19 streak problem
 3700. Number of ZigZag Arrays II - Day 20 streak problem
 3737. Count Subarrays With Majority Element I - Day 21 streak problem
-3739. Count Subarrays With Majority Element II - Day 21 streak problem
+3739. Count Subarrays With Majority Element II - Day 22 streak problem
+1846. Maximum Element After Decreasing and Rearranging - Day 24 streak problem
