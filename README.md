@@ -8,3 +8,4 @@
 3737. Count Subarrays With Majority Element I - Day 21 streak problem
 3739. Count Subarrays With Majority Element II - Day 22 streak problem
 1846. Maximum Element After Decreasing and Rearranging - Day 24 streak problem
+1967. Number of Strings That Appear as Substrings in Word -  Day 25 streak problem
