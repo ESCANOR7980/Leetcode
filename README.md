@@ -12,3 +12,4 @@
 1358. Number of Substrings Containing All Three Characters -  Day 26 streak problem
 2812. Find the Safest Path in a Grid - Day 27 streak problem
 3286. Find a Safe Walk Through a Grid -  Day 28 streak problem
+3620. Network Recovery Pathways - Day 29 streak problem
