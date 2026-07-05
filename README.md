@@ -14,3 +14,4 @@
 3286. Find a Safe Walk Through a Grid -  Day 28 streak problem
 3620. Network Recovery Pathways - Day 29 streak problem
 2492. Minimum Score of a Path Between Two Cities -  Day 30 streak problem
+1301. Number of Paths with Max Score -  Day 31 streak problem
