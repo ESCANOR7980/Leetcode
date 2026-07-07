@@ -16,3 +16,4 @@
 2492. Minimum Score of a Path Between Two Cities -  Day 30 streak problem
 1301. Number of Paths with Max Score -  Day 31 streak problem
 1288. Remove Covered Intervals - Day 32 streak problem 
+3754. Concatenate Non-Zero Digits and Multiply by Sum I - Day 33 streak problem 
