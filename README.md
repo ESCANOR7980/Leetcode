@@ -18,3 +18,4 @@
 1288. Remove Covered Intervals - Day 32 streak problem 
 3754. Concatenate Non-Zero Digits and Multiply by Sum I - Day 33 streak problem 
 3756. Concatenate Non-Zero Digits and Multiply by Sum II -  Day 34 streak problem 
+3532. Path Existence Queries in a Graph I -  Day 35 streak problem 
