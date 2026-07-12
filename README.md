@@ -21,3 +21,4 @@
 3532. Path Existence Queries in a Graph I -  Day 35 streak problem 
 3534. Path Existence Queries in a Graph II - Day 36 streak problem 
 2685. Count the Number of Complete Components - Day 37 streak problem
+1331. Rank Transform of an Array - Day 38 streak problem
