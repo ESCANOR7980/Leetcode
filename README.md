@@ -22,3 +22,4 @@
 3534. Path Existence Queries in a Graph II - Day 36 streak problem 
 2685. Count the Number of Complete Components - Day 37 streak problem
 1331. Rank Transform of an Array - Day 38 streak problem
+1291. Sequential Digits - Day 39 streak problem
