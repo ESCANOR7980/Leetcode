@@ -24,3 +24,4 @@
 1331. Rank Transform of an Array - Day 38 streak problem
 1291. Sequential Digits - Day 39 streak problem
 3336. Find the Number of Subsequences With Equal GCD - Day 40 streak problem
+3658. GCD of Odd and Even Sums -  Day 41 streak problem
