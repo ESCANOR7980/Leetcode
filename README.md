@@ -25,3 +25,4 @@
 1291. Sequential Digits - Day 39 streak problem
 3336. Find the Number of Subsequences With Equal GCD - Day 40 streak problem
 3658. GCD of Odd and Even Sums -  Day 41 streak problem
+3867. Sum of GCD of Formed Pairs -  Day 42 streak problem
